@@ -1,0 +1,9 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Environment settings
+.env
